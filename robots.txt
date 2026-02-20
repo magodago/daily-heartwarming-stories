@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://magodago.github.io/daily-heartwarming-stories/sitemap.xml
